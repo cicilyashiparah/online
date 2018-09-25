@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+h4{
+	 font-family: "showcard gothic";
+  font-size: 35px;
+   color: black;
+}
+thead
+{
+	font-family: "Palatino";
+	font-size: 20px;
+	color:black;
+}
+.body-sec{
+	 font-family: "HELVETICA";
+	 background-position:center top;
+	 background-repeat:no-repeat;
+	 background-size:cover;
+	 width:100%;
+	  background-image:url("./../images/download (3).jpg");
+	  height:100%;
+	  background-attachment:fixed;
+}

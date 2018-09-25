@@ -1,0 +1,27 @@
+@CHARSET "ISO-8859-1";
+.body-sec{
+	 font-family: "HELVETICA";
+	 background-position:center top;
+	 background-repeat:no-repeat;
+	 background-size:cover;
+	 width:100%;
+	  background-image:url("./../images/images%20(8).jpg");
+	  height:100%;
+	  background-attachment:fixed;
+}
+form {
+	 width: 470px;
+    padding: 25px;
+    margin: auto;
+    font-size: 20px;
+  background: #000000;
+  color: white;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 6px;
+ 
+}
+h5{
+	 font-family: "HELVETICA";
+	  font-size: 30px;
+}

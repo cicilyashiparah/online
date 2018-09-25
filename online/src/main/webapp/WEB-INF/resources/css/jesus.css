@@ -1,0 +1,13 @@
+@CHARSET "ISO-8859-1";
+h5 {
+  font-family: "HELVETICA";
+  font-size: 25px;
+  background-image:url("/resources/images/460993_christian-wallpaper-download.jpg");
+  background-repeat:no-repeat;
+  color: skyblue;
+  font-weight:bold;
+  
+}
+h4{
+	 font-family: "Comic Sans MS";
+}
